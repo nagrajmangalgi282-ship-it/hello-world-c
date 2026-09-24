@@ -1,14 +1,6 @@
-# hello-world-c
-My first C program
-# Hello World C
+## Collaboration Log
 
-A simple C program that prints Hello World.
-
-## How to Compile and Run
-
-gcc hello.c -o hello
-./hello
-
-## Student Name
-
-Nagraj Mangalgi 
+- **Pairing Partner:** Manoj Rathod
+- **GitHub Username:** [manojrathod257-wq]
+- **What we built:** Added a `greet()` function to the C Hello World program that greets a person by name.
+- **What I learned:** I learned how Live Share allows two developers to edit the same code in real time and how GitLens shows commit history and code authorship.
